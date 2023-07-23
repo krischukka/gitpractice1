@@ -6,3 +6,4 @@
 ## practice resumed 23July
 
 ## krischukka github tutorials
+## krischkka git class2
